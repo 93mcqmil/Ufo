@@ -12,7 +12,11 @@ button {
 
 }
 
-.second-btn:hover {
+.first-btn:hover {
     background-color: rgb(12, 230, 12);
 
+}
+
+.second-btn:hover {
+    background-color: brown;
 }
