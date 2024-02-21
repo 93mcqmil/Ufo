@@ -1,7 +1,6 @@
 import React from "react";
-import "./style.css";
-import "./Components/buttons.css";
-import "./Components/Header.css";
+import "./Components/Buttons/Buttons.css";
+import "./Components/Header/Header.css";
 
 const App = () => {
   return (
