@@ -6,9 +6,11 @@ import UfoList from "./Components/UfoList/UfoList";
 const App = () => {
   return (
     <>
-      <Button />
-      <Header />
-      <UfoList />
+      <article className='collection'>
+        <Header />
+        <Button />
+        <UfoList />
+      </article>
     </>
   );
 };

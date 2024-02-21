@@ -1,11 +1,11 @@
 h1 {
     background-color: rgba(23, 238, 41, 0.568);
     border: 2px solid red;
-    width: 30%;
-
-    margin-left: 35%;
-    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
     border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 2rem;
 
 
 }

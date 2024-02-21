@@ -12,12 +12,6 @@ button {
 
 }
 
-.first-btn:hover {
-    background-color: rgb(12, 230, 12);
-    font-size: large;
-
-}
-
-.second-btn:hover {
-    background-color: brown;
+button:hover {
+    background-color: greenyellow
 }
