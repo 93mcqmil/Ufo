@@ -1,14 +1,15 @@
 import React from "react";
-import "./Components/Buttons/Buttons.css";
-import "./Components/Header/Header.css";
+import Button from "./Components/Buttons/Button";
+import Header from "./Components/Header/Header";
+import UfoList from "./Components/UfoList/UfoList";
 
 const App = () => {
   return (
-    <div className='styles.myContainer'>
-      <h1>🍌 Hello World! 🛸</h1>;
-      <button className='first-btn'>Click me</button>
-      <button className='second-btn'>Enter</button>
-    </div>
+    <>
+      <Button />
+      <Header />
+      <UfoList />
+    </>
   );
 };
 

@@ -1,9 +1,11 @@
 h1 {
     background-color: rgba(23, 238, 41, 0.568);
-
-
-}
-
-.myContainer {
     border: 2px solid red;
+    width: 30%;
+
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 1rem;
+
+
 }
